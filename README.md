@@ -1,4 +1,4 @@
-**AeroWatch : Plateforme décisionnelle de suivi du trafic aérien**
+##AeroWatch : Plateforme décisionnelle de suivi du trafic aérien
 
 AeroWatch est une plateforme décisionnelle de suivi du trafic aérien développée dans le cadre du module **Processus Décisionnel Big Data**. Elle combine les archives OpenSky et les positions récentes collectées via l’API pour comparer le trafic observé par zone et par période, et repérer des segments de trajectoire atypiques.
 
