@@ -70,7 +70,7 @@ Le démarrage local est prévu avec **Docker et Docker Compose**. Les commandes 
 ## Équipe
 
 - Farah **HANTI**
-- Mohammed **ESSOULAIMANI**
+- Mohammed **SOULAIMANI**
 - Ahmed **MASBAH**
 
 ## Sources des données
